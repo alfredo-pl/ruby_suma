@@ -1,0 +1,1 @@
+puts "Por favor ingresar un numero hasta donde desea hacer un conteo por pantalla"
